@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://majestic-maamoul-621316.netlify.app/
 
 ### The challenge
 
