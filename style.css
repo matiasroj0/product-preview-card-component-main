@@ -132,7 +132,6 @@ button:active {
 @media (max-width:660px) {
     body {
         padding: 1rem;
-        align-items: baseline;
     }
 
     .card {
